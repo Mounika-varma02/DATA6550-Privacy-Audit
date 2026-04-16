@@ -1,0 +1,52 @@
+Monika  0:02  
+Hey, hi everyone. Welcome back. Hi. Hello guys. Good, good. Thanks for asking. Are you?
+
+Venu  0:11  
+Are you Mahindra Karthik and Monica? Is everything okay with you guys? Yeah, how is your
+
+Monika  0:18  
+classes going on? Did everyone complete their individual analysis?
+
+Venu  0:23  
+Yeah, I do, yeah, yeah. We are done with the actually, I worked on a detailed analyst of my selected services which I have posted in the group, which are like LinkedIn, Slack, Dropbox and Twitter. For each service, I unless data collection, data sharing, user right and legal complaints like GP, sorry, my bad, GDP and CCPA, yeah. While doing this, I noticed that LinkedIn and Dropbox provide better user control, while slack and Twitter involve more communication on public data, which increase privacy risk. You all guys know, like Twitter and with Slack, it's actually like a communication platform so it increases the privacy risks. One challenge, sorry, interesting. Yeah, thank you. Thank you. Man, yeah, one challenge I faced was understanding the legal language in privacy policies, but I tried to simplify it and write it in my own words when doing my individual report, yeah, that's what I complete. I just need to upload in the GitHub, I was just implementing it that. Yeah, I'll update with the report as well.
+
+Monika  1:49  
+Yeah, okay,
+
+NagaKarthik K  1:51  
+sounds good.
+
+Monika  1:53  
+So in my analysis, so I focused on Google services, like, as I said, like Gmail, Google Maps, YouTube and Google Drive. So I observe that these services collect different types of data, such as personal data, behavior data and user generated content. So for example, Gmail collects email contents and contacts, right? So Google Maps collect location and so on. So I also found that data is shared within Google services and with third party providers for purposes like, you know, analytics, security and personalizations, and moreover, I face one major issue, as when you say, like, you know, the users may not fully understand how their data is being used. And so overall, Google services compile with jdpr and CCPA, but there are still concerns regarding transparency and continuous data tracking. So yeah,
+
+Mahendra  2:50  
+yeah. Like, I have noticed that entertainment platform collect a lot of behavioral data, especially for the personal recommendations and ads, and I have completed all the analysis for Netflix Spotify and,
+
+Monika  3:11  
+yeah, Hello, yeah, we need to include these points in our comparison, Right, and key finding section as well.
+
+NagaKarthik K  3:20  
+Yeah, yes. Overall, we can say different service collect different types of data and relay heavily on user information. I think so, yeah. In my case, I'm going, I'm going with the financial service is highly sensitive data. Yeah, you know the highly sensitive like data, like transactions and like on details and personal details, like home addresses and everything I'm doing my analysis, like CCPA and cdga. So those are good. Everything is the following, Goldsman, search and Bank of America. Yeah, as like as privacy is good for those.
+
+Venu  4:13  
+Yeah, sounds good.
+
+Monika  4:15  
+Yeah. So yeah, we need to Yeah.
+
+NagaKarthik K  4:20  
+So we need to figure it out. Like a report, final report, I just uploaded my library. My individual also submitted in the
+
+Monika  4:33  
+I submitted my GitHub, yes, analysis in the GitHub as well,
+
+Venu  4:38  
+if you guys are free tomorrow, yeah. Exam today, so,
+
+NagaKarthik K  4:45  
+okay, okay, man, okay, okay, guys, good luck with your exam, bro,
+
+Venu  4:49  
+thanks. You.
+
+Transcribed by https://otter.ai
